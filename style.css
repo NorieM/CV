@@ -1,0 +1,23 @@
+body {
+  font-family: 'Arial';
+  font-size: 12px;
+}
+
+hr {
+  border: 2px solid blue;
+}
+
+table, th, td {
+  border: 2px solid skyblue;  
+  border-collapse: collapse;  
+  padding:5px;
+}
+
+table {
+  width: 50%;
+}
+.rating {
+  color:gold;
+  font-size: 32px;
+  text-align: center;
+}
